@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating_schedules", "Creating_schedules\Creating_schedules.csproj", "{54D173CD-C293-478A-BA55-11B7DA5A2AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2021Debug|Any CPU = 2021Debug|Any CPU
+		2021Release|Any CPU = 2021Release|Any CPU
+		2022Debug|Any CPU = 2022Debug|Any CPU
+		2022Release|Any CPU = 2022Release|Any CPU
+		2023Debug|Any CPU = 2023Debug|Any CPU
+		2023Release|Any CPU = 2023Release|Any CPU
+		2024Debug|Any CPU = 2024Debug|Any CPU
+		2024Release|Any CPU = 2024Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2021Debug|Any CPU.ActiveCfg = 2021Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2021Debug|Any CPU.Build.0 = 2021Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2021Release|Any CPU.ActiveCfg = 2021Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2021Release|Any CPU.Build.0 = 2021Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2022Debug|Any CPU.ActiveCfg = 2022Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2022Debug|Any CPU.Build.0 = 2022Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2022Release|Any CPU.ActiveCfg = 2022Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2022Release|Any CPU.Build.0 = 2022Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2023Debug|Any CPU.ActiveCfg = 2023Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2023Debug|Any CPU.Build.0 = 2023Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2023Release|Any CPU.ActiveCfg = 2023Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2023Release|Any CPU.Build.0 = 2023Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2024Debug|Any CPU.ActiveCfg = 2024Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2024Debug|Any CPU.Build.0 = 2024Debug|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2024Release|Any CPU.ActiveCfg = 2024Release|Any CPU
+		{54D173CD-C293-478A-BA55-11B7DA5A2AEC}.2024Release|Any CPU.Build.0 = 2024Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA562932-1D7F-4B60-AF3C-4DE5AB140962}
+	EndGlobalSection
+EndGlobal

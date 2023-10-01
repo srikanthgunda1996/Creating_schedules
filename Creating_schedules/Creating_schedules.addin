@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Creating_schedules - Command 1</Text>
+    <Description>Some description for Creating_schedules</Description>
+    <Assembly>Creating_schedules.dll</Assembly>
+    <FullClassName>Creating_schedules.Command1</FullClassName>
+    <ClientId>54d173cd-c293-478a-ba55-11b7da5a2aec</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Creating_schedules - Command 2</Text>
+    <Description>Some description for Creating_schedules</Description>
+    <Assembly>Creating_schedules.dll</Assembly>
+    <FullClassName>Creating_schedules.Command2</FullClassName>
+    <ClientId>0b1570b4-948e-494f-b0dd-4e1a428b5190</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Creating_schedules</Name>
+    <Assembly>Creating_schedules.dll</Assembly>
+    <FullClassName>Creating_schedules.App</FullClassName>
+    <ClientId>38844ef1-3f59-46c9-8a5f-80ab943d65f6</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
